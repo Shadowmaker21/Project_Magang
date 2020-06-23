@@ -1,0 +1,5 @@
+[14-Mar-2018 02:54:25 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/arpusdajatengpro/public_html/application/views/home2/berita_detail.php on line 21
+[14-Mar-2018 02:54:37 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/arpusdajatengpro/public_html/application/views/home2/berita_detail.php on line 21
+[14-Mar-2018 02:54:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/arpusdajatengpro/public_html/application/views/home2/berita_detail.php on line 21
+[14-Mar-2018 02:54:49 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/arpusdajatengpro/public_html/application/views/home2/berita_detail.php on line 21
+[17-Mar-2018 03:33:05 UTC] PHP Fatal error:  Call to undefined method M_index::berita_beranda() in /home/arpusdajatengpro/public_html/application/controllers/home.php on line 46
